@@ -6,30 +6,30 @@ body {
   font-family: "Lato", sans-serif;
 }
 
-.aaa {
+.first-block {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.aaa img {
+.first-block img {
   width: 100%;
 }
 
-.aaa .more-inf {
+.first-block .more-inf {
   font-family: "Fantasy", cursive;
 }
 
 @media (max-width: 768px) {
 
-  .aaa {
+  .first-block {
     text-align: center;
   }
 
 }
 
-.centered-main-page-element {
+.basic-content {
   display: block;
   width: 500px;
   margin: 0 auto 0;
